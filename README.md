@@ -1,16 +1,21 @@
 # riverpodtodo
 
-A new Flutter project.
+A simple and clean Todo app built using **Flutter** and **Riverpod** for state management. Organize your tasks efficiently by categorizing them into **Pending**, **In-Progress**, and **Completed** states.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add and manage todos
+- 🔄 Update task status (Pending → In-Progress → Completed)
+- 🗂 Filter tasks based on their status
+- 💡 Powered by [Riverpod](https://riverpod.dev/) for scalable and maintainable state management
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 State Management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app uses **Riverpod** for managing the state of tasks and their status, ensuring a reactive and testable architecture.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+*(Coming Soon Some Design Color Improve After)*
+
+## 📁 Folder Structure
+*(Coming Soon)
